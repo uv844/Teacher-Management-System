@@ -1,0 +1,5 @@
+{
+  "name": "Teacher Management System",
+  "description": "A full-stack teacher management platform with token-based authentication, user-teacher relationship mapping, and interactive data tables.",
+  "requestFramePermissions": []
+}
