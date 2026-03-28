@@ -76,7 +76,7 @@ NODE_ENV=development
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/teacher-management-system.git
+git clone https://github.com/uv844/Teacher-Management-System.git
 
 # Navigate to the project directory
 cd teacher-management-system
